@@ -81,4 +81,4 @@ function ascPropFilter(array, prop, boolean){
     propBeers.length = 10
     return propBeers
 }
-console.log(ascPropFilter(beers, "ph", false))
+/* console.log(ascPropFilter(beers, "ph", false)) */
